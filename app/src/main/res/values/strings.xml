@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">testPaging</string>
+    <string name="remove_all">Remove All</string>
+    <string name="to_last">To Last</string>
+    <string name="search">Search</string>
+    <string name="back">Back</string>
+</resources>
